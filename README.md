@@ -1,14 +1,34 @@
 # Technical-Writer-Board
-A list of resources a for those interested in being a technical writer
+A island of resources and tool for technical writer
+
+# Resources
+## Courses
 
 
-# Courses
-
-
-# Blog
+## Blog
 
 
 
-# Video
+## Video
 
+
+# Search Engine Optimization (SEO) Tools
+## Free Tools
+
+## Paid Tools
+
+
+
+# Web Analytics Tools
+
+
+# Design Tools & Free Stock Image
+
+
+# Landing Page Builders
+
+# Organizational and Documentation Apps
+
+
+# Writing platform
 
